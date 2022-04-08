@@ -6,13 +6,9 @@ If politicians are able to trade with insider knowledge, why can't we? Politicia
 
 ## Problem / Project Origins
 
----
-
 Currently there are no ready-to-use APIs that have access to stock trades of all members of Congress. Most require web scraping or significant data transformation. This project aims to deliver an API that is easy to use, provides transformed data, and is publicly available.
 
 ## Completed
-
----
 
 -   The Web Scraper to obtain stock information
 -   Data Transformation for the custom object for the NoSQL DB
@@ -21,8 +17,6 @@ Currently there are no ready-to-use APIs that have access to stock trades of all
 
 ## Work In Progress
 
----
-
 ### Moving from non-relation to relation DB
 
 Currently, the data is in a NoSQL DB. This was due to the ease of starting the project and Google Firebase integration. Moving it to a SQL DB would be beneficial because we can create more versatile APIs.
@@ -30,7 +24,5 @@ Currently, the data is in a NoSQL DB. This was due to the ease of starting the p
 In the NoSQL DB, the only optimized request is GET all transactions on a particular date. With how data is stored in a non-relational DB, we would have a lot of repeated data to have the same flexibility when creating APIs compared to a relational DB. An example could be getting all trades of a particular person in power. That would require restructuring of the data or having repeated content.
 
 ## Where To Find
-
----
 
 This is where to find the project if it is currently available
