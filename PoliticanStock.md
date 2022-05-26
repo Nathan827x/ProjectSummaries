@@ -17,6 +17,9 @@ Currently there are no ready-to-use APIs that have access to stock trades of all
 
 ## Work In Progress
 
+-   Designing the relational tables for more versatile API requests
+-   Adding SQLAlchemy to the project to handle the relational db
+
 ### Moving from non-relation to relation DB
 
 Currently, the data is in a NoSQL DB. This was due to the ease of starting the project and Google Firebase integration. Moving it to a SQL DB would be beneficial because we can create more versatile APIs.
@@ -25,4 +28,4 @@ In the NoSQL DB, the only optimized request is GET all transactions on a particu
 
 ## Where To Find
 
-This is where to find the project if it is currently available
+I will update this with a link once the project is up and runnning. Stay tuned :)
