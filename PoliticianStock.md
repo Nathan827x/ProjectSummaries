@@ -1,8 +1,8 @@
-# PoliticanStock
+# PoliticianStock
 
 ## Overview
 
-If politicians are able to trade with insider knowledge, why can't we? Politicians are required to provide details on their personal finances annually, however many will periodically submit these reports. PoliticanStock is an API that gathers U.S. House Representative and Senators stock trade information and provides developers with an easy way to access these transactions!
+If politicians are able to trade with insider knowledge, why can't we? Politicians are required to provide details on their personal finances annually, however many will periodically submit these reports. PoliticianStock is an API that gathers U.S. House Representative and Senators stock trade information and provides developers with an easy way to access these transactions!
 
 ## Problem / Project Origins
 
