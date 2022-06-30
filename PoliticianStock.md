@@ -18,7 +18,8 @@ Currently there are no ready-to-use APIs that have access to stock trades of all
 ## Work In Progress
 
 -   Designing the relational tables for more versatile API requests
--   Adding SQLAlchemy to the project to handle the relational db
+    -   Implement proper relatonships and indexing for efficiency
+-   Adding SQLAlchemy and Pydantic to the project to handle the relational DB
 
 ### Moving from non-relation to relation DB
 
